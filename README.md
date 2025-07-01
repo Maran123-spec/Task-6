@@ -2,7 +2,7 @@
 
 Summary:
 
-Short, simple words (e.g., Security, Diamond) are cracked instantly or within seconds.
+Short, simple words (e.g., Security, Diamond) are cracked instantly or within seconds... 
 
 Medium-length passwords with only letters (e.g., Pavilion, Thalapathii) improve resistance slightly.
 
